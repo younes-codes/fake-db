@@ -3,10 +3,10 @@
     {
       "id": 123,
       "category": "animal welfare",
-      "title": "<b>Cat Adoption Day</b>",
+      "title": "Cat Adoption Day",
       "description": "Find your new feline friend at this event.",
       "location": "Meow Town",
-      "date": "January 28, 2022",
+      "date": "<b>January 28, 2022</b>",
       "time": "12:00",
       "organizer": "Kat Laydee"
     },
